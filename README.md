@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hello, I'm Suraj Pandey 👋
 
-<!--
-**Suraj-360/Suraj-360** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Banner](https://via.placeholder.com/800x200.png?text=Welcome+to+My+GitHub+Profile)
 
-Here are some ideas to get you started:
+## 🚀 About Me
+I'm a passionate software developer with experience in building web applications using modern technologies. I enjoy learning new things and improving my skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- **Languages:** JavaScript, Python, C++
+- **Frameworks:** React, Node.js, Django
+- **Tools:** Git, Docker, VS Code
+
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Suraj-360&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Suraj-360&theme=radical)
+
+## 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/s-u-r-a-j-p-a-n-d-e-y/)
+- [Twitter](https://twitter.com/s_u_r_a_j_p_a_n)
+
+## 🚀 Deployed Project
+- **Tuntun's Food**: A food delivery web application.
+  - [Live Demo](https://tuntun-food-frontend.vercel.app)
+  - [GitHub Repository](https://github.com/Suraj-360/tuntun-food-frontend) <!-- Replace with the actual repo URL if different -->
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suraj-360&layout=compact&theme=radical)
+
+## 🎨 Hobbies
+- 🎮 Gaming
+- 📚 Reading tech blogs
+- 🎵 Listening to music
+
+## 🌱 Currently Learning
+- GraphQL
+- TypeScript
+
+![Coding](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
