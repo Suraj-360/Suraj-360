@@ -1,6 +1,6 @@
 # Hello, I'm Suraj Pandey 👋
 
-![Welcome Banner]([https://via.placeholder.com/800x200.png?text=Welcome+to+My+GitHub+Profile](https://github.com/Suraj-360/Suraj-360/blob/main/github-header-image.png))
+![Welcome Banner]([https://via.placeholder.com/800x200.png?text=Welcome+to+My+GitHub+Profile](https://github.com/Suraj-360/Suraj-360/blob/main/github-header-image.png)
 
 ## 🚀 About Me
 I'm a passionate software developer with experience in building modern and responsive web applications. I enjoy tackling complex problems and continuously improving my skills.
